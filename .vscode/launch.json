@@ -1,0 +1,15 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-Demoaulaspringboot2Application<demoaulaspringboot2>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "mainClass": "com.example.aula.springboot2.demoaulaspringboot2.Demoaulaspringboot2Application",
+            "projectName": "demoaulaspringboot2",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
